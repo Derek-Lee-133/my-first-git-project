@@ -1,0 +1,9 @@
+Name " Jane Anderson
+Role : Software Instructor
+DOB :May 11, 1991
+Start: may, 1, 2017
+
+Experienced softeare insructor with deep knowledge of the following sftwar products:
+ MIcrosoft C#k net
+
+ GIt & git hub
