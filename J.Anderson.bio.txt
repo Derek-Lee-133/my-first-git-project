@@ -7,3 +7,4 @@ Experienced softeare insructor with deep knowledge of the following sftwar produ
  MIcrosoft C#k net
 
  GIt & git hub
+ MySQL
